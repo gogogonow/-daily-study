@@ -1,2 +1,3 @@
-# study diary
+# study-diary
 记录平日学习
+在从事IT行业三年之余，记录平时学习的一些知识
