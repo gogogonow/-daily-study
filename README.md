@@ -1,1 +1,1 @@
-# -daily-study
+# daily-study
